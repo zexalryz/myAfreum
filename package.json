@@ -1,0 +1,20 @@
+{
+  "name": "stellar-web3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "delay": "^5.0.0",
+    "node-fetch": "^2.6.0",
+    "node-global-proxy": "^1.0.1",
+    "readline-sync": "^1.4.10",
+    "stellar-sdk": "^10.0.1"
+  }
+}
